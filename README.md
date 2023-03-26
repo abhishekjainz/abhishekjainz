@@ -1,4 +1,4 @@
-<h2 align="center"> 💫 Hello! I'm Abhishek :D </h2>
+<h1 align="center"> 💫 Hello! I'm Abhishek :D </h1>
 👨🏽‍🎓 Business Analytics honours student at National University of Singapore, specialising in Marketing Analytics and Entrepreneurship<br><br>🏢 Analytics & Insights @ Procter & Gamble<br><br>👨🏽‍💻Interested in Predictive Analytics and Reinforcement Learning in the Retail and eCommerce space<br><br>☕Always down for coffee or chai chats<br><br>🎾Avid tennis player and watcher. Hitting the gym and hiking more often nowadays!<br><br>🌐 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekjainz/)
 
 
