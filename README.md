@@ -1,4 +1,4 @@
-## 💫 Hello! I'm Abhishek :D
+<h2 align="center"> 💫 Hello! I'm Abhishek :D </h2>
 👨🏽‍🎓 Business Analytics honours student at National University of Singapore, specialising in Marketing Analytics and Entrepreneurship<br><br>🏢 Analytics & Insights @ Procter & Gamble<br><br>👨🏽‍💻Interested in Predictive Analytics and Reinforcement Learning in the Retail and eCommerce space<br><br>☕Always down for coffee or chai chats<br><br>🎾Avid tennis player and watcher. Hitting the gym and hiking more often nowadays!<br><br>🌐 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekjainz/)
 
 
@@ -42,7 +42,7 @@
 
 
 
-## 📊 GitHub Stats:
+<h2 align="center"> 📊 GitHub Stats </h2>
 ![](https://github-readme-stats.vercel.app/api?username=abhishekjainz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjainz&theme=monokai&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjainz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
