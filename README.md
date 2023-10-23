@@ -39,12 +39,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-
-<br><br>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekjainz&theme=monokai&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjainz&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<br><br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
